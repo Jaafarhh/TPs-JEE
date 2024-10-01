@@ -10,10 +10,10 @@ Dans ce travail pratique, une base de données MySQL a été utilisée pour cré
 
 La récupération des données a été réalisée avec la méthode `load()`, qui exécute une requête SQL pour afficher toutes les entrées de la table `site`. Ces opérations ont permis de démontrer la gestion efficace des données dans une base de données MySQL en utilisant Java.
 
-### Video Demo
+### Video Demo TP1
 
 
-https://github.com/user-attachments/assets/ccc94e8b-e749-45c3-92a8-7bbb74a6014f
+https://github.com/user-attachments/assets/70556543-4fc9-45be-aca8-3adf658c943f
 
 
 ## Travail à Faire : Suivi des Scripts des Développeurs
@@ -21,9 +21,11 @@ https://github.com/user-attachments/assets/ccc94e8b-e749-45c3-92a8-7bbb74a6014f
 Ce projet a été consacré au suivi des réalisations des développeurs au sein d'une équipe. Une table `DevData` a été créée pour enregistrer le nom des développeurs, le jour de la semaine, et le nombre de scripts réalisés. Grâce à des méthodes comme `insert()`, nous avons inséré des informations sur les performances des développeurs.
 
 Des requêtes SQL ont été exécutées pour analyser les données, qui déterminent quel développeur a réalisé le plus de scripts en une journée et d'autres qui ont permis de calculer le total des scripts réalisés par chaque développeur et de fournir des statistiques sur la productivité de l'équipe.
-### Video Demo
+### Video Demo TAF1
 
-https://github.com/user-attachments/assets/1f925fc0-afc8-4c18-834b-6d4fac3a214d
+
+https://github.com/user-attachments/assets/e5710dbd-6301-4399-b9b9-46cdfc6ec2ac
+
 
 ---
 
