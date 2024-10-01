@@ -11,6 +11,5 @@ Ce dépôt contient tous les travaux pratiques (TP) réalisés dans le cadre du 
   - Description : Ce TP traite du suivi des réalisations des scripts par différents développeurs dans un projet.
 
 - **TP2/**: à venir...
-...
 
 Naviguer dans un TP : Chaque TP a sa propre structure de dossier, incluant le code source et les fichiers nécessaires. Utilisez les fichiers README spécifiques à chaque TP pour des instructions détaillées.
