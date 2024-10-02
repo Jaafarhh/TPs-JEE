@@ -13,3 +13,8 @@ Ce dépôt contient tous les travaux pratiques (TP) réalisés dans le cadre du 
 - **TP2/**: à venir...
 
 Naviguer dans un TP : Chaque TP a sa propre structure de dossier, incluant le code source et les fichiers nécessaires. Utilisez les fichiers README spécifiques à chaque TP pour des instructions détaillées.
+
+---
+
+Alioui Jaâfar
+
