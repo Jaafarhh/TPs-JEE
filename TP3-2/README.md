@@ -1,40 +1,17 @@
-# TP3 : Gestion de Produits et d'État Civil
+# TP3-2: Hibernate (Maven)
 
-## Table des matières
-- [Exercice 1 : Gestion de Produit](#exercice-1-gestion-de-produit)
-- [Exercice 2 : Gestion des Commandes, Produits et Categories](#exercice-2-gestion-des-produits-avec-catégories-et-commandes)
-- [Travail à Rendre : Gestion des Familles](#travail-à-rendre-gestion-des-familles)
+Dans ce TP3-2, nous avons développé un système de gestion de salles et de machines en utilisant Hibernate pour effectuer des opérations CRUD (Create, Read, Update, Delete) sur une base de données MySQL. Ce projet se distingue par son utilisation de Maven pour la gestion des dépendances et Hibernate pour la persistance des données.
 
-## Exercice 1 : Gestion de Produit
+Les éléments clés de ce projet incluent :
+- L'utilisation de services dédiés pour les opérations CRUD (`SalleService` et `MachineService`) avec des tests unitaires complets `JUNIT` pour valider les fonctionnalités implémentées.
+- L'intégration de JUnit pour tester la persistance des données et vérifier le bon fonctionnement des méthodes `create`, `getById`, et `getAll` dans les classes `SalleServiceTest` et `MachineServiceTest`.
+- La configuration de Maven pour gérer les dépendances du projet, incluant Hibernate et MySQL Connector, facilitant ainsi l’intégration et l’automatisation du build.
+- Le fichier `pom.xml` a été configuré pour gérer les dépendances, y compris Hibernate, JUnit, et MySQL Connector, permettant une intégration fluide de la persistance et des tests unitaires au projet.
 
-Dans ce premier exercice, nous avons modélisé la classe `Produit`, qui contient des attributs tels que `id`, `marque`, `ref`, `dateAchat`, `prix`, et `designation`. Nous avons également implémenté des annotations JPA pour assurer la persistance des données dans une base de données MySQL.
-
-### Video Demo Exercice 1
-
-
-https://github.com/user-attachments/assets/57761c78-1edf-4468-81bc-e9e3636d1e24
+### Video Demo TP3-2
 
 
-## Exercice 2 : Gestion des Commandes, Produits et Categories
-
-Ce deuxième exercice traite de la gestion des produits en intégrant des catégories et des commandes. Nous avons créé les classes `Categorie`, `Produit`, `Commande`, et `LigneCommandeProduit`, qui interagissent entre elles avec des relations `ManyToMany`. Cela nous a permis de gérer efficacement les données concernant les produits, les catégories, et les commandes dans une base de données MySQL.
-
-### Video Demo Exercice 2
-
-
-https://github.com/user-attachments/assets/b95f559c-e31d-44b5-bc30-64f45cfb1162
-
-
-## Travail à Rendre : Gestion des Familles
-
-Dans ce TAR, nous avons intégré des fonctionnalités complètes pour la gestion de l'état civil, y compris les mariages et les relations familiales. Nous avons modélisé les classes `Homme`, `Femme`, et `Mariage`, permettant de gérer les données concernant les individus et leur statut marital.
-
-Des requêtes nommées et des méthodes de service ont été mises en œuvre pour optimiser l'accès aux données.
-
-### Video Demo Travail à Rendre
-
-
-https://github.com/user-attachments/assets/f8c7a1c8-fe73-4a20-a5bd-08d066e21839
+https://github.com/user-attachments/assets/40670c11-c11f-4853-ac9f-449df60741cc
 
 
 ---
