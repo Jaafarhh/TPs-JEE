@@ -23,7 +23,7 @@ Ce dépôt contient tous les travaux pratiques (TP) réalisés dans le cadre du 
   - Description: Ce TP consiste à modéliser les relations `ManyToMany` dans la gestion de l'état civil entre les entités `Homme`, `Femme`, et `Mariage`. Des requêtes avancées et des opérations complexes ont été mises en œuvre pour manipuler les mariages, les enfants et les relations entre les personnes.
 
 - **TP3-2/**: Gestion de Salles et de Machines avec Hibernate
-  - Description : Ce TP met en place un système de gestion de salles et de machines, où des opérations CRUD sont réalisées à l'aide de Hibernate. Le projet utilise Maven pour la gestion des dépendances et inclut des tests unitaires avec JUnit pour valider les opérations de gestion des salles et des machines.
+  - Description : Ce TP met en place un système de gestion de salles et de machines, où des opérations CRUD sont réalisées à l'aide de Hibernate. Le projet utilise `Maven` pour la gestion des dépendances et inclut des tests unitaires avec `JUnit` pour valider les opérations de gestion des salles et des machines.
 
 Naviguer dans un TP : Chaque TP a sa propre structure de dossier, incluant le code source et les fichiers nécessaires. Utilisez les fichiers README spécifiques à chaque TP pour des instructions détaillées.
 
