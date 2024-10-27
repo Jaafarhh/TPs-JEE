@@ -10,7 +10,10 @@ Les éléments clés de ce projet incluent :
 - L'utilisation des templates Thymeleaf (`add-user.html`, `update-user.html`, et `index.html`) pour créer une interface utilisateur interactive permettant la gestion complète des utilisateurs.
 
 ### Video Demo TP4
-[Insérer le lien de la démo ici]
+
+
+https://github.com/user-attachments/assets/dd8e5609-5e7e-46cf-9818-6d58949648ef
+
 
 ---
 Alioui Jaâfar
