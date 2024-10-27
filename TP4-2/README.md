@@ -1,4 +1,4 @@
-# TP4: Spring Boot et Thymeleaf
+# TP4-2: Spring Boot et Thymeleaf
 Dans ce TP4, nous avons développé une application web CRUD complète en utilisant Spring Boot et Thymeleaf pour la gestion des utilisateurs. Ce projet met l'accent sur l'implémentation d'une interface utilisateur dynamique avec Thymeleaf et la persistance des données avec Spring Data JPA.
 
 Les éléments clés de ce projet incluent :
