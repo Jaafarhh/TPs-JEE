@@ -1,24 +1,11 @@
 # TP4 : Spring avec Hibernate
+Dans ce TP, nous avons développé une application de gestion de produits intégrant Spring Framework avec Hibernate ORM. Le projet utilise une configuration basée sur les annotations pour mettre en place un système CRUD complet, où les produits peuvent être créés, lus, mis à jour et supprimés de la base de données MySQL. L'architecture met l'accent sur l'injection de dépendances avec Spring et la persistance des données avec Hibernate, utilisant une approche moderne avec des annotations plutôt qu'une configuration XML. La gestion des transactions est automatisée grâce à l'annotation `@Transactional`, et la configuration est externalisée dans un fichier `application.properties`. Le projet démontre également l'utilisation efficace du pattern DAO à travers une interface générique, permettant une séparation claire des responsabilités entre les différentes couches de l'application.
 
-Dans ce TP, nous avons développé une application de gestion de produits utilisant Spring Framework intégré avec Hibernate ORM. Le projet implémente un système CRUD complet pour la gestion des produits, avec une architecture en couches bien définie et une configuration basée sur les annotations Spring.
+### Video Demo TP4
 
-Le projet se distingue par :
-- L'utilisation de Spring pour l'injection de dépendances et la gestion des transactions
-- L'intégration d'Hibernate comme ORM pour la persistance des données
-- Une configuration moderne basée sur les annotations plutôt que sur XML
-- L'utilisation de JPA pour la définition des entités
 
-Les fonctionnalités principales incluent :
-- Création, lecture, mise à jour et suppression de produits
-- Gestion automatique des transactions avec `@Transactional`
-- Configuration externalisée via `application.properties`
-- Implémentation du pattern DAO avec une interface générique
+https://github.com/user-attachments/assets/28be67d2-1518-4c40-9bc7-d8b22c1ef711
 
-La structure du projet suit une architecture en couches :
-- **entities** : Contient les entités JPA (Product)
-- **dao** : Contient l'interface IDao et son implémentation
-- **util** : Contient la configuration Hibernate et Spring
-- **presentation** : Contient la classe de démonstration
 
 ---
 Alioui Jaâfar
