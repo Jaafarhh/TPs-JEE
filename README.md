@@ -25,6 +25,9 @@ Ce dépôt contient tous les travaux pratiques (TP) réalisés dans le cadre du 
 - **TP3-2/**: Gestion de Salles et de Machines avec Hibernate
   - Description : Ce TP met en place un système de gestion de salles et de machines, où des opérations CRUD sont réalisées à l'aide de Hibernate. Le projet utilise `Maven` pour la gestion des dépendances et inclut des tests unitaires avec `JUnit` pour valider les opérations de gestion des salles et des machines.
 
+- **TP3-2/**: Spring Boot et Thymeleaf
+  - Description : Ce TP implémente une application Web `CRUD` complète utilisant `Spring Boot` et `Thymeleaf`. Il démontre l'utilisation de `JPA` pour la persistance des données, la validation des formulaires, et la création d'interfaces utilisateur dynamiques avec `Thymeleaf`.
+
 Naviguer dans un TP : Chaque TP a sa propre structure de dossier, incluant le code source et les fichiers nécessaires. Utilisez les fichiers README spécifiques à chaque TP pour des instructions détaillées.
 
 ---
