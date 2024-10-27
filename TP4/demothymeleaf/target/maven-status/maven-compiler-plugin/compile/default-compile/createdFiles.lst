@@ -1,4 +1,0 @@
-com\example\demo\DemoApplication.class
-com\example\demo\entities\User.class
-com\example\demo\controllers\UserController.class
-com\example\demo\repository\UserRepository.class
