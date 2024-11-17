@@ -1,6 +1,4 @@
----
-
-# TP5-1: Gestion des Étudiants
+# TP5: Gestion des Étudiants
 
 Dans ce TP5-1, nous avons développé une application de gestion des étudiants en utilisant Spring Boot pour la persistance des données et la gestion des opérations CRUD (Create, Read, Update, Delete) sur une base de données MySQL.
 
