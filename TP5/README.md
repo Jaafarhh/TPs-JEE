@@ -8,7 +8,7 @@ Les éléments clés de ce projet incluent :
 - La classe `StudentService` qui contient la logique métier pour la gestion des étudiants, y compris les méthodes pour sauvegarder, supprimer, trouver tous les étudiants, compter les étudiants et trouver le nombre d'étudiants par année.
 - La classe `StudentController` qui gère les requêtes HTTP et les mappe aux méthodes du service. Elle inclut des endpoints pour sauvegarder, supprimer, trouver tous les étudiants, compter les étudiants et trouver les étudiants par année.
 - La configuration de l'application pour se connecter à une base de données MySQL en utilisant les propriétés définies dans le fichier `application.properties`.
-- Les tests unitaires pour la couche contrôleur en utilisant JUnit et Mockito.
+- Les tests unitaires pour la couche contrôleur en utilisant JUnit.
 
 ### Video Demo TP5-1
 
