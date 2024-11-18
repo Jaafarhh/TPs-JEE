@@ -31,7 +31,7 @@ Ce dépôt contient tous les travaux pratiques (TP) réalisés dans le cadre du 
 - **TP4-2/**: Spring Boot et Thymeleaf
   - Description : Ce TP implémente une application Web `CRUD` complète utilisant `Spring Boot` et `Thymeleaf`. Il démontre l'utilisation de `JPA` pour la persistance des données, la validation des formulaires, et la création d'interfaces utilisateur dynamiques avec `Thymeleaf`.
 
-- **TP5-1/**: Gestion des Étudiants
+- **TP5/**: Gestion des Étudiants
   - Description : Ce TP développe une application de gestion des étudiants en utilisant `Spring Boot` pour la persistance des données et la gestion des opérations CRUD (Create, Read, Update, Delete) sur une base de données MySQL. Le projet inclut la définition de l'entité `Student`, l'utilisation de `JpaRepository` pour les opérations CRUD, la logique métier dans `StudentService`, et les contrôleurs pour gérer les requêtes HTTP. Des tests unitaires sont également fournis pour valider les fonctionnalités.
 
 Naviguer dans un TP : Chaque TP a sa propre structure de dossier, incluant le code source et les fichiers nécessaires. Utilisez les fichiers README spécifiques à chaque TP pour des instructions détaillées.
