@@ -33,6 +33,9 @@ Ce dépôt contient tous les travaux pratiques (TP) réalisés dans le cadre du 
 
 - **TP5/**: Gestion des Étudiants
   - Description : Ce TP développe une application de gestion des étudiants en utilisant `Spring Boot` pour la persistance des données et la gestion des opérations CRUD (Create, Read, Update, Delete) sur une base de données MySQL. Le projet inclut la définition de l'entité `Student`, l'utilisation de `JpaRepository` pour les opérations CRUD, la logique métier dans `StudentService`, et les contrôleurs pour gérer les requêtes HTTP. Des tests unitaires sont également fournis pour valider les fonctionnalités.
+ 
+- **TP6/**: Gestion des Comptes Bancaires
+  - Description : Ce TP développe une application fullstack qui permet la gestion des comptes bancaires en utilisant `Spring Boot` pour la persistance des données et la gestion des opérations CRUD (Create, Read, Update, Delete) sur une base de données H2. Et `React` pour le frontend.
 
 Naviguer dans un TP : Chaque TP a sa propre structure de dossier, incluant le code source et les fichiers nécessaires. Utilisez les fichiers README spécifiques à chaque TP pour des instructions détaillées.
 
